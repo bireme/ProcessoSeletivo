@@ -19,6 +19,5 @@ Realize as atividades descritas nos itens A, B, C e D.
 1. A saída do serviço deve ser um arquivo JSON contendo o total de registros recuperados na busca e os dados de cada um destes registros.
 1. O uso da biblioteca Apache Lucene e de framework web para construção da solução será considerado um diferencial positivo na avaliação do candidato.
 ## D. NOTIFICAÇÃO PARA AVALIAÇÃO DO TESTE
-1. Incluir seu currículo, em qualquer formato, no diretorio *AnalistaDados/*
 1. Preencher o formulário disponível em 
 1. Aguardar contato para as próximas etapas do processo seletivo (análise de currículo e entrevistas)
