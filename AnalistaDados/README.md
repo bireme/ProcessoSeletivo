@@ -13,7 +13,7 @@ Realize as atividades descritas nos itens A, B, C e D.
 ## C. CRIAÇÃO DE WEB SERVICE
 1. Criar um serviço web como descrito abaixo.
 1. Utilizar umas das seguintes linguagens de programação: Java ou Python.
-1. Criar documentação explicando o processo de instalação do serviço web criado e armazená-la no arquivo *AnalistaDados/webservice/*
+1. Criar documentação explicando o processo de instalação do serviço web criado e armazená-la no arquivo [*AnalistaDados/webservice/README.md*](https://github.com/bireme/ProcessoSeletivo/blob/master/AnalistaDados/webservice/README.md)
 1. Disponibilizar no diretório *AnalistaDados/webservice/* todos os códigos-fonte deste serviço.
 1. O serviço web deve obedecer o seguinte padrão de url: `http://<host>/<githubuser>/<coluna>/<expressao_busca>`. O parâmetro <coluna> é a identificação da coluna do arquivo proc_sel_db_ad.txt. O parâmetro <expressao_busca> é uma expressão de busca que será aplicada na coluna correspondente. O nível de tratamento dado na expressão de busca será considerando um diferencial positivo na avaliação do candidato. Por exemplo, tratamento simples: busca por uma palavra, tratamento avançado: busca booleana.
 1. A saída do serviço deve ser um arquivo JSON contendo o total de registros recuperados na busca e os dados de cada um destes registros.
