@@ -7,7 +7,7 @@ Realize as atividades descritas nos itens A, B, C e D.
 1. Faça um fork [deste repositório](https://github.com/bireme/ProcessoSeletivo).
 ## B. LIMPEZA DE BASE DE DADOS
 1. Com os dados do [*AnalistaDados/proc_sel_db_ad.txt*](https://github.com/bireme/ProcessoSeletivo/blob/master/AnalistaDados/proc_sel_db_ad.txt), realizar processo de "Qualidade de Dados" que você considere adequado, seguindo as etapas de análise (data profiling), limpeza (data cleansing), normalização (data standardization), deduplicação e melhoria (data enrichment).
-1. Documentar as etapas utilizadas assim como a justificativa para a utilização das mesmas. Mencione se você utilizou alguma ferramenta específica de qualidade de dados. Armazenar a documentação no arquivo *AnalistaDados/dataqualitydoc.md*.
+1. Documentar as etapas utilizadas assim como a justificativa para a utilização das mesmas. Mencione se você utilizou alguma ferramenta específica de qualidade de dados. Armazenar a documentação no arquivo [*AnalistaDados/dataqualitydoc.md*](https://github.com/bireme/ProcessoSeletivo/blob/master/AnalistaDados/dataqualitydoc.md).
 1. Criar uma base de dados MySQL com os dados resultantes do processo descrito no ítem anterior.
 1. Criar o arquivo dump da base gerada e armazená-lo em *AnalistaDados/sqldumpdq.sql*
 ## C. CRIAÇÃO DE WEB SERVICE
