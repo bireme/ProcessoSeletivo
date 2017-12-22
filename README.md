@@ -2,7 +2,7 @@
 Conteúdos que serão utilizados em provas técnicas do processo seletivo de candidatos da área de tecnologia.
 ## Instruções
 ### Passo 1
-Acesse o diretório que corresponde à sua vaga de interesse.
+Acesse o diretório que corresponda à sua vaga de interesse.
 ### Passo 2
 Leia cuidadosamente e siga todas as intruções contidas no arquivo README.md do diretório escolhido.
 ### Passo 3
