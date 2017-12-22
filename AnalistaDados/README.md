@@ -17,7 +17,7 @@ Realize as atividades descritas nos itens A, B, C e D.
 1. Disponibilizar no diretório *AnalistaDados/webservice/* todos os códigos-fonte deste serviço.
 1. O serviço web deve obedecer o seguinte padrão de url: `http://<host>/<githubuser>/<coluna>/<expressao_busca>`. O parâmetro `<coluna>` é a identificação da coluna do arquivo proc_sel_db_ad.txt. O parâmetro `<expressao_busca>` é uma expressão de busca que será aplicada na coluna correspondente. O nível de tratamento dado na expressão de busca será considerando um diferencial positivo na avaliação do candidato. Por exemplo, tratamento simples: busca por uma palavra, tratamento avançado: busca booleana.
 1. A saída do serviço deve ser um arquivo JSON contendo o total de registros recuperados na busca e os dados de cada um destes registros.
-1. O uso da biblioteca Apache Lucene e de framework web para construção da solução será considerado um diferencial positivo na avaliação do candidato.
+1. O uso da biblioteca Apache Lucene e de um framework web para construção da solução será considerado um diferencial positivo na avaliação do candidato.
 ## D. NOTIFICAÇÃO PARA AVALIAÇÃO DO TESTE
 1. Preencher o formulário disponível em https://goo.gl/forms/LYAem5hDTQPJiE0F3
 1. Aguardar contato para as próximas etapas do processo seletivo (análise de currículo e entrevistas)
