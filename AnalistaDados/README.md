@@ -1,7 +1,7 @@
 # Teste para preenchimento de vaga de analista de dados na BIREME/OPAS/OMS
 Obrigado pelo seu interesse de fazer parte da equipe da [BIREME/OPAS/OMS](http://www.paho.org/bireme).
 
-Realize as atividades descritas nos itens A, B, C e D.
+Realize as atividades descritas nos itens A, B, C e D para participar do processo seletivo.
 ## A. CRIAÇÃO DA CONTA NO GITHUB
 1. Crie ou utilize sua conta no Github.
 1. Faça um fork [deste repositório](https://github.com/bireme/ProcessoSeletivo).
