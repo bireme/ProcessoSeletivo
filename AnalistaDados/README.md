@@ -2,6 +2,8 @@
 Obrigado pelo seu interesse de fazer parte da equipe da [BIREME/OPAS/OMS](http://www.paho.org/bireme).
 
 Realize as atividades descritas nos itens A, B, C e D para participar do processo seletivo.
+
+Em caso de dúvida ou problema, favor abrir um issue que contenha o nome da vaga e a descrição do seu problema ou dúvida.
 ## A. CRIAÇÃO DA CONTA NO GITHUB
 1. Crie ou utilize sua conta no Github.
 1. Faça um fork [deste repositório](https://github.com/bireme/ProcessoSeletivo).
