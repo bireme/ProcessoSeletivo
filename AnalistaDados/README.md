@@ -1,7 +1,7 @@
 # Teste para preenchimento de vaga de analista de dados na BIREME/OPAS/OMS
 Obrigado pelo seu interesse de fazer parte da equipe da [BIREME/OPAS/OMS](http://www.paho.org/bireme).
 
-Realize as atividades descritas nos itens A, B, C e D para participar do processo seletivo.
+Realize as atividades descritas nos itens A, B, C (opcional) e D para participar do processo seletivo.
 
 Em caso de dúvida ou problema, favor abrir um issue que contenha o nome da vaga e a descrição do seu problema ou dúvida.
 ## A. CRIAÇÃO DA CONTA NO GITHUB
@@ -12,7 +12,7 @@ Em caso de dúvida ou problema, favor abrir um issue que contenha o nome da vaga
 1. Documentar as etapas utilizadas assim como a justificativa para a utilização das mesmas. Mencione se você utilizou alguma ferramenta específica de qualidade de dados. Armazenar a documentação no arquivo [*AnalistaDados/dataqualitydoc.md*](https://github.com/bireme/ProcessoSeletivo/blob/master/AnalistaDados/dataqualitydoc.md).
 1. Criar uma base de dados MySQL com os dados resultantes do processo descrito no ítem anterior.
 1. Criar o arquivo dump da base gerada e armazená-lo em *AnalistaDados/sqldumpdq.sql*
-## C. CRIAÇÃO DE WEB SERVICE
+## C. CRIAÇÃO DE WEB SERVICE (Opcional)
 1. Criar um serviço web como descrito abaixo.
 1. Utilizar umas das seguintes linguagens de programação: Java ou Python.
 1. Criar documentação explicando o processo de instalação do serviço web criado e armazená-la no arquivo [*AnalistaDados/webservice/README.md*](https://github.com/bireme/ProcessoSeletivo/blob/master/AnalistaDados/webservice/README.md)
