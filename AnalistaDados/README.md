@@ -3,6 +3,8 @@ Obrigado pelo seu interesse de fazer parte da equipe da [BIREME/OPAS/OMS](http:/
 
 Realize as atividades descritas nos itens A, B, C (opcional) e D para participar do processo seletivo.
 
+A etapa C não é obrigatória mas será considerada um diferencial se realizada.
+
 Em caso de dúvida ou problema, favor abrir um issue que contenha o nome da vaga e a descrição do seu problema ou dúvida.
 ## A. CRIAÇÃO DA CONTA NO GITHUB
 1. Crie ou utilize sua conta no Github.
